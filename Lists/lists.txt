@@ -1,0 +1,47 @@
+of lists a list is a form of variable that can be used to hold an array of object tops.
+
+For example suppose any of multiple separate values that you want to be contained within one variable.
+
+You use a list.
+
+A great example would be to create a variable to contain the daughter of a person.
+
+Let's say the first name the last name and the age you then create a list variable and place the values
+
+within.
+
+Note that lists can be analyzed and daughter retrieved using indexing and sluicing index in its last
+
+late and this cause and practice thereafter.
+
+For now binman that lists can be very useful daughter containers for any program of collecting large
+
+amounts of data that need to be divided into various sections to create a list in path one is as follows.
+
+As you'll notice from the line we start off the creation of the list variable as we would any other
+
+variable.
+
+We tap in the name of the variable follow it with an equal symbol and then we place the values.
+
+When creating a list we open a set to square brackets and begin to place our values within.
+
+We separate each value with a comma and with that in mind your notes are placed full values within this
+
+list here.
+
+Ha.
+
+The first and John being the last list of fantastic variables to be used when processing strings of
+
+text those words more often than not that is exactly what they are used for.
+
+Of course you could also use a list to contain any doorstop as long as they are separated with a comma.
+
+Here we have another example that contained within our two values one is string and the other an integer
+
+from this we can see a list can hold more than one daughter to pass on.
+
+It's a truly fantastic language and it's breaking down and storing values in a list.
+
+Easy.
